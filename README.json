@@ -1,0 +1,526 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FlashFry",
+          "description": "[software] - A command line tool for high-throughput design and screening of Cas9,Cas12a/Cpf1 and other CRISPR targets, with a focus on speed. Many design metrics are available, including common on and off-target scores.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-07-27T19:50:26Z",
+            "owner": "mckennalab",
+            "repo": "FlashFry",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepCRISPR",
+          "description": "[Python, webserver] - A deep learning based prediction model for sgRNA on-target knockout efficacy and genome-wide off-target cleavage profile prediction.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-13T16:41:12Z",
+            "owner": "bm2-lab",
+            "repo": "DeepCRISPR",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CLD",
+          "description": "[software] - CRISPR library designer (CLD), a software for multispecies design of single guide RNA libraries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2022-10-07T15:46:01Z",
+            "owner": "boutroslab",
+            "repo": "cld",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crisflash",
+          "description": "[software] - A software to generate CRISPR guide RNAs against genomes annotated with individual variation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-10-16T12:35:54Z",
+            "owner": "crisflash",
+            "repo": "crisflash",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CRISPR Library Designer",
+          "description": "[software] - A software for the multispecies design of sgRNA libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2022-05-30T13:40:58Z",
+            "owner": "boutroslab",
+            "repo": "cld_docker",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "beditor",
+          "description": "[python] - A Computational Workflow for Designing Libraries of sgRNAs for CRISPR-Mediated Base Editing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-22T00:43:00Z",
+            "owner": "rraadd88",
+            "repo": "beditor",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crackling",
+          "description": "[software] - Crackling is a standalone pipeline that combines multiple scoring approaches and constant-time search algorithms to select safe and efficient CRISPR-Cas9 guide RNA from whole genomes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-01-11T06:05:04Z",
+            "owner": "bmds-lab",
+            "repo": "Crackling",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgRNAFinder",
+          "description": "[python]- A web-based tool to design distance independent paired-gRNA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-04-07T07:31:51Z",
+            "owner": "xiexiaowei",
+            "repo": "pgRNAFinder",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crisprBase",
+          "description": "[R] - Base functions and classes for CRISPR gRNA design for the Bioconductor project",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "crisprBowtie",
+          "description": "[R] - A Bioconductor package for on- and off-target alignment of CRISPR guide RNAs with Bowtie.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "crisprBwa",
+          "description": "[R] - A Bioconductor package for on- and off-target alignment of CRISPR guide RNAs with BWA.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "crisprDesign",
+          "description": "[R] - A Bioconductor package for comprehensive design of CRISPR gRNAs across nucleases and base editors.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "crisprScore",
+          "description": "[R] - A Bioconductor package for on- and off-target scoring of guide RNAs.",
+          "children": []
+        }
+      ],
+      "title": "Guide design"
+    },
+    {
+      "description": "All-in-one platforms for planning, simulating and documenting cloning and genome engineering workflows, including CRISPR-based strain construction.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pydna",
+          "description": "[python] - A Python library to simulate and document reproducible cloning strategies, including CRISPR-Cas9 cut simulation and CRISPR-mediated engineering. BMC Bioinfo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T14:09:17Z",
+            "owner": "pydna-group",
+            "repo": "pydna",
+            "stars": 228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenCloning",
+          "description": "[webserver] - An open-source web application to plan and document cloning and genome engineering, including CRISPR-based strain engineering. code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-08-11T13:46:18Z",
+            "owner": "OpenCloning",
+            "repo": "OpenCloning",
+            "stars": 55
+          }
+        }
+      ],
+      "title": "Cloning and strain engineering"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CRISPRme",
+          "description": "[webserver] - CRISPRme is a tool for comprehensive off-target assessment that considers effects of human genetic variants. code Recommended",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:00:45Z",
+            "owner": "pinellolab",
+            "repo": "CRISPRme",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GT-Scan2",
+          "description": "[R] - It is Chromatin- and Transcription-aware target site optimization tool for CRISPR/CAS9.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2017-08-22T00:44:24Z",
+            "owner": "BauerLab",
+            "repo": "GT-Scan2",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Off-target prediction algorithms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CRIS.py",
+          "description": "[Python] - A versatile and high-throughput analysis program for CRISPR-based genome editing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-08T14:08:47Z",
+            "owner": "patrickc01",
+            "repo": "CRIS.py",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrispRVariants",
+          "description": "[R] - A R-based toolkit for counting, localizing and plotting targeted insertion and deletion variant combinations from CRISPR-Cas9 mutagenesis experiments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2020-10-15T01:06:16Z",
+            "owner": "markrobinsonuzh",
+            "repo": "CrispRVariants",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CRISPR-DAV",
+          "description": "[Perl, R] - A CRISPR NGS data analysis and visualization pipeline.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2019-07-26T19:23:56Z",
+            "owner": "pinetree1",
+            "repo": "crispr-dav",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crispr-DART",
+          "description": "[Python, R] - A workflow to analyze CRISPR-Cas-induced indel mutations in targeted/amplicon DNA sequencing. Can work with single/multiplexed sgRNAs per region(s).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-02-01T21:48:49Z",
+            "owner": "BIMSBbioinfo",
+            "repo": "crispr_DART",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CRISPRmatch",
+          "description": "[Python] - An automatic calculation and visualization tool for high-throughput CRISPR genome-editing data analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-02-22T01:10:55Z",
+            "owner": "zhangtaolab",
+            "repo": "CRISPRMatch",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AmpliconDIVider",
+          "description": "[Perl] - AmpliconDIVider contains the scripts used to identify deletion and insertion variants (DIVs) in DNA amplicons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2016-01-28T18:41:33Z",
+            "owner": "mlafave",
+            "repo": "ampliconDIVider",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BATCH-GE",
+          "description": "[Perl] - A batch analysis of Next-Generation Sequencing data for genome editing assessment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-02-07T14:24:25Z",
+            "owner": "WouterSteyaert",
+            "repo": "BATCH-GE",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Genome editing outcomes and predictions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ScreenProcessing",
+          "description": "[Python] - A complete pipeline for processing data generated by the genome-scale CRISPR screen platform developed at the Weissman Lab. It offers key features and careful implementation in comparison to MAGeCK. Paper: eLife 2016",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-19T19:57:56Z",
+            "owner": "mhorlbeck",
+            "repo": "ScreenProcessing",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScreenPro2",
+          "description": "[Python] – Flexible analysis of high-content CRISPR screening. Recommended",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-06T05:04:34Z",
+            "owner": "ArcInstitute",
+            "repo": "ScreenPro2",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DrugZ",
+          "description": "[python] - DrugZ is a software that detects synergistic and suppressor drug-gene interactions in CRISPR screens. Paper: Genome Medicine 2019.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-08-09T16:27:15Z",
+            "owner": "hart-lab",
+            "repo": "drugz",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CaRpools",
+          "description": "[R] - A pipeline for end-to-end analysis of pooled CRISPR/Cas9 screening data. Including in-depth analysis of screening quality and sgRNA phenotypes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2017-03-06T09:54:52Z",
+            "owner": "boutroslab",
+            "repo": "caRpools",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Normalisr",
+          "description": "[Python, Shell] - Single-cell CRISPR screen (e.g. Perturb-seq, CROP-seq) analysis for robust, efficient gene differential expression and regulatory network reconstruction with accurate FDR control. Paper: Nature Communications 2021.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-11T21:26:16Z",
+            "owner": "lingfeiwang",
+            "repo": "normalisr",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CRISPR-SURF",
+          "description": "[webserver] - A computational framework to discover regulatory elements by deconvolution of CRISPR tiling screen data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-04T17:18:35Z",
+            "owner": "pinellolab",
+            "repo": "CRISPR-SURF",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JACKS",
+          "description": "[Python] - A Bayesian method that jointly analyses screens performed with the same guide RNA library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-19T09:35:33Z",
+            "owner": "felicityallen",
+            "repo": "JACKS",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CRISPhieRmix",
+          "description": "[R] - A hierarchical mixture model for CRISPR pooled screens",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2019-07-10T18:29:05Z",
+            "owner": "timydaley",
+            "repo": "CRISPhieRmix",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScreenBEAM",
+          "description": "[R] - Gene-level meta-analysis of high-throughput functional genomics (RNAi or CRISPR) screens.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2016-07-19T22:47:39Z",
+            "owner": "jyyu",
+            "repo": "ScreenBEAM",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MAUDE",
+          "description": "[R] - An R package for analyzing sorting-based (e.g FACS) CRISPR screens and other high-throughput screens with a sorting readout.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-02-26T22:46:45Z",
+            "owner": "Carldeboer",
+            "repo": "MAUDE",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Screening analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MinCED",
+          "description": "[Java] - A program to find Clustered Regularly Interspaced Short Palindromic Repeats (CRISPRs) in full genomes or environmental datasets such as assembled contigs from metagenomes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-02-10T06:15:11Z",
+            "owner": "ctSkennerton",
+            "repo": "minced",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CRISPRdisco",
+          "description": "[software] - Identifying CRISPR repeat-spacer arrays and cas genes in genome data sets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2018-11-02T13:37:06Z",
+            "owner": "CRISPRlab",
+            "repo": "CRISPRdisco",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MetaCRAST",
+          "description": "[software] - A tool detects CRISPR arrays in raw, unassembled metagenomes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2020-03-10T03:26:18Z",
+            "owner": "molleraj",
+            "repo": "MetaCRAST",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "CRISPR identification and diversity"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T12:00:05.927Z",
+    "original_repository": "davidliwei/awesome-CRISPR",
+    "original_repository_sha": "69e433e0dea11e3183e6957083ada07c720e6827",
+    "enhanced_repository": "enhansome/enhansome-CRISPR",
+    "enhanced_repository_description": null,
+    "title": "awesome-CRISPR with stars"
+  }
+}
