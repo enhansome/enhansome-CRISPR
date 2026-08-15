@@ -2,7 +2,7 @@
 
 List of software/websites/databases/papers for genome engineering, including (but not limited to) guide design, genome editing outcome, screening analysis, etc. [Contributions welcome](https://github.com/davidliwei/awesome-CRISPR/blob/master/CONTRIBUTING.md) ⭐ 579 | 🐛 0 | 📅 2026-07-29..
 
-This collection is inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,830 | 🐛 12 | 📅 2026-08-01.
+This collection is inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,831 | 🐛 12 | 📅 2026-08-01.
 
 Did you use any of the softwares below? Take a survey [here](https://forms.gle/qbX7mkjm7U6JSSR4A)!
 
@@ -116,7 +116,7 @@ All-in-one platforms for planning, simulating and documenting cloning and genome
 
 ## Off-target prediction algorithms
 
-* [CRISPRme](http://crisprme.di.univr.it/) - \[webserver] - CRISPRme is a tool for comprehensive off-target assessment that considers effects of human genetic variants. [code](https://github.com/pinellolab/crisprme) ⭐ 28 | 🐛 4 | 🌐 Python | 📅 2026-08-14 **Recommended**
+* [CRISPRme](http://crisprme.di.univr.it/) - \[webserver] - CRISPRme is a tool for comprehensive off-target assessment that considers effects of human genetic variants. [code](https://github.com/pinellolab/crisprme) ⭐ 28 | 🐛 5 | 🌐 Python | 📅 2026-08-15 **Recommended**
 * [GT-Scan2](https://github.com/BauerLab/GT-Scan2) ⭐ 5 | 🐛 0 | 🌐 R | 📅 2017-08-22 - \[R] - It is Chromatin- and Transcription-aware target site optimization tool for CRISPR/CAS9.
 * [CasFinder](http://arep.med.harvard.edu/CasFinder/) - \[Python] - An algorithm for identifying specific Cas9 targets in genomes.
 * [CasOT](http://casot.cbi.pku.edu.cn/) - \[webserver] - A tool to find potential off-target sites in any given genome or user-provided sequence, with user-specified types of the protospacer adjacent motif, and the number of mismatches allowed in the seed and non-seed regions.
@@ -227,4 +227,4 @@ All-in-one platforms for planning, simulating and documenting cloning and genome
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
