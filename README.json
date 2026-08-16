@@ -193,7 +193,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T11:28:14Z",
+            "last_commit": "2026-08-15T18:31:21Z",
             "owner": "pinellolab",
             "repo": "CRISPRme",
             "stars": 28
@@ -516,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T11:33:51.750Z",
+    "last_updated": "2026-08-16T11:34:27.689Z",
     "original_repository": "davidliwei/awesome-CRISPR",
     "original_repository_sha": "69e433e0dea11e3183e6957083ada07c720e6827",
     "enhanced_repository": "enhansome/enhansome-CRISPR",
