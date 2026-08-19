@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28197493,
             "language": "Scala",
             "last_commit": "2026-07-27T19:50:26Z",
             "owner": "mckennalab",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117238113,
             "language": "Python",
             "last_commit": "2023-02-13T16:41:12Z",
             "owner": "bm2-lab",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36079430,
             "language": "Perl",
             "last_commit": "2022-10-07T15:46:01Z",
             "owner": "boutroslab",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139568503,
             "language": "C",
             "last_commit": "2020-10-16T12:35:54Z",
             "owner": "crisflash",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 164117454,
             "language": "Perl",
             "last_commit": "2022-05-30T13:40:58Z",
             "owner": "boutroslab",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142622458,
             "language": "Python",
             "last_commit": "2026-07-22T00:43:00Z",
             "owner": "rraadd88",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 233759338,
             "language": "C++",
             "last_commit": "2024-01-11T06:05:04Z",
             "owner": "bmds-lab",
@@ -108,42 +115,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87512561,
             "language": "Python",
             "last_commit": "2017-04-07T07:31:51Z",
             "owner": "xiexiaowei",
             "repo": "pgRNAFinder",
             "stars": 3
           }
-        },
-        {
-          "node_type": "item",
-          "title": "crisprBase",
-          "description": "[R] - Base functions and classes for CRISPR gRNA design for the Bioconductor project",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "crisprBowtie",
-          "description": "[R] - A Bioconductor package for on- and off-target alignment of CRISPR guide RNAs with Bowtie.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "crisprBwa",
-          "description": "[R] - A Bioconductor package for on- and off-target alignment of CRISPR guide RNAs with BWA.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "crisprDesign",
-          "description": "[R] - A Bioconductor package for comprehensive design of CRISPR gRNAs across nucleases and base editors.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "crisprScore",
-          "description": "[R] - A Bioconductor package for on- and off-target scoring of guide RNAs.",
-          "children": []
         }
       ],
       "title": "Guide design"
@@ -158,11 +136,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30285498,
             "language": "Python",
-            "last_commit": "2026-08-18T07:10:13Z",
+            "last_commit": "2026-08-19T09:18:32Z",
             "owner": "pydna-group",
             "repo": "pydna",
-            "stars": 228
+            "stars": 229
           }
         },
         {
@@ -172,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 413037153,
             "language": "Dockerfile",
             "last_commit": "2026-08-11T13:46:18Z",
             "owner": "OpenCloning",
@@ -183,7 +163,7 @@
       "title": "Cloning and strain engineering"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -192,8 +172,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 352959483,
             "language": "Python",
-            "last_commit": "2026-08-18T02:59:55Z",
+            "last_commit": "2026-08-18T23:35:52Z",
             "owner": "pinellolab",
             "repo": "CRISPRme",
             "stars": 28
@@ -206,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64459202,
             "language": "R",
             "last_commit": "2017-08-22T00:44:24Z",
             "owner": "BauerLab",
@@ -217,7 +199,7 @@
       "title": "Off-target prediction algorithms"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -226,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139477880,
             "language": "Python",
             "last_commit": "2023-08-08T14:08:47Z",
             "owner": "patrickc01",
@@ -240,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22062131,
             "language": "R",
             "last_commit": "2020-10-15T01:06:16Z",
             "owner": "markrobinsonuzh",
@@ -254,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94729080,
             "language": "Perl",
             "last_commit": "2019-07-26T19:23:56Z",
             "owner": "pinetree1",
@@ -268,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95460328,
             "language": "R",
             "last_commit": "2024-02-01T21:48:49Z",
             "owner": "BIMSBbioinfo",
@@ -282,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 111500013,
             "language": "Python",
             "last_commit": "2024-02-22T01:10:55Z",
             "owner": "zhangtaolab",
@@ -296,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25216221,
             "language": "Shell",
             "last_commit": "2016-01-28T18:41:33Z",
             "owner": "mlafave",
@@ -310,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60698766,
             "language": "Java",
             "last_commit": "2018-02-07T14:24:25Z",
             "owner": "WouterSteyaert",
@@ -321,7 +310,7 @@
       "title": "Genome editing outcomes and predictions"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -330,6 +319,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47171620,
             "language": "Python",
             "last_commit": "2023-08-19T19:57:56Z",
             "owner": "mhorlbeck",
@@ -344,6 +334,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 728801533,
             "language": "Python",
             "last_commit": "2026-03-06T05:04:34Z",
             "owner": "ArcInstitute",
@@ -358,6 +349,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93686015,
             "language": "HTML",
             "last_commit": "2021-08-09T16:27:15Z",
             "owner": "hart-lab",
@@ -372,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39879518,
             "language": "HTML",
             "last_commit": "2017-03-06T09:54:52Z",
             "owner": "boutroslab",
@@ -386,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 242889849,
             "language": "Python",
             "last_commit": "2026-06-11T21:26:16Z",
             "owner": "lingfeiwang",
@@ -400,6 +394,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131749015,
             "language": "Python",
             "last_commit": "2024-09-04T17:18:35Z",
             "owner": "pinellolab",
@@ -414,6 +409,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123929967,
             "language": "Python",
             "last_commit": "2021-02-19T09:35:33Z",
             "owner": "felicityallen",
@@ -428,6 +424,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118522640,
             "language": "R",
             "last_commit": "2019-07-10T18:29:05Z",
             "owner": "timydaley",
@@ -442,6 +439,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39014485,
             "language": "R",
             "last_commit": "2016-07-19T22:47:39Z",
             "owner": "jyyu",
@@ -456,6 +454,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 377654210,
             "language": "HTML",
             "last_commit": "2022-02-26T22:46:45Z",
             "owner": "Carldeboer",
@@ -467,7 +466,7 @@
       "title": "Screening analysis"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -476,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14484942,
             "language": "Java",
             "last_commit": "2023-02-10T06:15:11Z",
             "owner": "ctSkennerton",
@@ -490,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114408792,
             "language": "Jupyter Notebook",
             "last_commit": "2018-11-02T13:37:06Z",
             "owner": "CRISPRlab",
@@ -504,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59859749,
             "language": "Perl",
             "last_commit": "2020-03-10T03:26:18Z",
             "owner": "molleraj",
@@ -516,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:41:43.969Z",
+    "last_updated": "2026-08-19T11:40:39.491Z",
     "original_repository": "davidliwei/awesome-CRISPR",
     "original_repository_sha": "69e433e0dea11e3183e6957083ada07c720e6827",
     "enhanced_repository": "enhansome/enhansome-CRISPR",

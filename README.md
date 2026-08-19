@@ -109,7 +109,7 @@ References:
 
 All-in-one platforms for planning, simulating and documenting cloning and genome engineering workflows, including CRISPR-based strain construction.
 
-* [pydna](https://github.com/pydna-group/pydna) ⭐ 228 | 🐛 62 | 🌐 Python | 📅 2026-08-18 - \[python] - A Python library to simulate and document reproducible cloning strategies, including CRISPR-Cas9 cut simulation and CRISPR-mediated engineering. [BMC Bioinfo](https://doi.org/10.1186/s12859-015-0544-x)
+* [pydna](https://github.com/pydna-group/pydna) ⭐ 229 | 🐛 63 | 🌐 Python | 📅 2026-08-19 - \[python] - A Python library to simulate and document reproducible cloning strategies, including CRISPR-Cas9 cut simulation and CRISPR-mediated engineering. [BMC Bioinfo](https://doi.org/10.1186/s12859-015-0544-x)
 * [OpenCloning](https://opencloning.org) - \[webserver] - An open-source web application to plan and document cloning and genome engineering, including CRISPR-based strain engineering. [code](https://github.com/manulera/OpenCloning) ⭐ 55 | 🐛 22 | 🌐 Dockerfile | 📅 2026-08-11
 * [Benchling](https://benchling.com/crispr) - \[webserver] - A platform for sequence design and lab documentation that can also design CRISPR gRNAs by analyzing target location, specificity, and efficiency.
 * [SeqBench](https://seqbench.com) - \[webserver, commercial] - A browser-based sequence workbench with a CRISPR gRNA designer alongside cloning simulation, primer design, and a REST/MCP API.
@@ -227,4 +227,4 @@ All-in-one platforms for planning, simulating and documenting cloning and genome
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
