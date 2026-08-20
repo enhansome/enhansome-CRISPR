@@ -36,7 +36,7 @@ References:
 ## Guide design
 
 * [FlashFry](https://github.com/mckennalab/FlashFry) ⭐ 83 | 🐛 3 | 🌐 Scala | 📅 2026-07-27 - \[software] - A command line tool for high-throughput design and screening of Cas9,Cas12a/Cpf1 and other CRISPR targets, with a focus on speed. Many design metrics are available, including common on and off-target scores.
-* [DeepCRISPR](https://github.com/bm2-lab/DeepCRISPR) ⭐ 75 | 🐛 6 | 🌐 Python | 📅 2023-02-13 - \[Python, webserver] - A deep learning based prediction model for sgRNA on-target knockout efficacy and genome-wide off-target cleavage profile prediction.
+* [DeepCRISPR](https://github.com/bm2-lab/DeepCRISPR) ⭐ 76 | 🐛 6 | 🌐 Python | 📅 2023-02-13 - \[Python, webserver] - A deep learning based prediction model for sgRNA on-target knockout efficacy and genome-wide off-target cleavage profile prediction.
 * [CLD](https://github.com/boutroslab/cld) ⭐ 38 | 🐛 4 | 🌐 Perl | 📅 2022-10-07 - \[software] - CRISPR library designer (CLD), a software for multispecies design of single guide RNA libraries
 * [Crisflash](https://github.com/crisflash/crisflash) ⭐ 33 | 🐛 4 | 🌐 C | 📅 2020-10-16- \[software] - A software to generate CRISPR guide RNAs against genomes annotated with individual variation.
 * [CRISPR Library Designer](https://github.com/boutroslab/cld_docker) ⭐ 21 | 🐛 10 | 🌐 Perl | 📅 2022-05-30 - \[software] - A software for the multispecies design of sgRNA libraries.
@@ -227,4 +227,4 @@ All-in-one platforms for planning, simulating and documenting cloning and genome
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

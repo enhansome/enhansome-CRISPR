@@ -30,7 +30,7 @@
             "last_commit": "2023-02-13T16:41:12Z",
             "owner": "bm2-lab",
             "repo": "DeepCRISPR",
-            "stars": 75
+            "stars": 76
           }
         },
         {
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:11:32.817Z",
+    "last_updated": "2026-08-20T11:43:04.409Z",
     "original_repository": "davidliwei/awesome-CRISPR",
     "original_repository_id": 173040292,
     "original_repository_sha": "69e433e0dea11e3183e6957083ada07c720e6827",
