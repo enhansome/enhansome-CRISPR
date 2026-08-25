@@ -174,7 +174,7 @@
             "archived": false,
             "id": 352959483,
             "language": "Python",
-            "last_commit": "2026-08-23T21:26:35Z",
+            "last_commit": "2026-08-24T18:55:01Z",
             "owner": "pinellolab",
             "repo": "CRISPRme",
             "stars": 28
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:26:33.143Z",
+    "last_updated": "2026-08-25T06:12:55.307Z",
     "original_repository": "davidliwei/awesome-CRISPR",
     "original_repository_id": 173040292,
     "original_repository_sha": "69e433e0dea11e3183e6957083ada07c720e6827",
