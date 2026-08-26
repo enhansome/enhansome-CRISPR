@@ -2,7 +2,7 @@
 
 List of software/websites/databases/papers for genome engineering, including (but not limited to) guide design, genome editing outcome, screening analysis, etc. [Contributions welcome](https://github.com/davidliwei/awesome-CRISPR/blob/master/CONTRIBUTING.md) ⭐ 579 | 🐛 1 | 📅 2026-07-29..
 
-This collection is inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,840 | 🐛 11 | 📅 2026-08-21.
+This collection is inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,841 | 🐛 11 | 📅 2026-08-21.
 
 Did you use any of the softwares below? Take a survey [here](https://forms.gle/qbX7mkjm7U6JSSR4A)!
 
@@ -41,7 +41,7 @@ References:
 * [Crisflash](https://github.com/crisflash/crisflash) ⭐ 33 | 🐛 4 | 🌐 C | 📅 2020-10-16- \[software] - A software to generate CRISPR guide RNAs against genomes annotated with individual variation.
 * [CRISPR Library Designer](https://github.com/boutroslab/cld_docker) ⭐ 21 | 🐛 10 | 🌐 Perl | 📅 2022-05-30 - \[software] - A software for the multispecies design of sgRNA libraries.
 * [beditor](https://github.com/rraadd88/beditor) ⭐ 19 | 🐛 6 | 🌐 Python | 📅 2026-07-22 - \[python] - A Computational Workflow for Designing Libraries of sgRNAs for CRISPR-Mediated Base Editing.
-* [Crackling](https://github.com/bmds-lab/Crackling) ⭐ 10 | 🐛 13 | 🌐 C++ | 📅 2024-01-11 - \[software] - Crackling is a standalone pipeline that combines multiple scoring approaches and constant-time search algorithms to select safe and efficient CRISPR-Cas9 guide RNA from whole genomes
+* [Crackling](https://github.com/bmds-lab/Crackling) ⭐ 11 | 🐛 13 | 🌐 C++ | 📅 2024-01-11 - \[software] - Crackling is a standalone pipeline that combines multiple scoring approaches and constant-time search algorithms to select safe and efficient CRISPR-Cas9 guide RNA from whole genomes
 * [pgRNAFinder](https://github.com/xiexiaowei/pgRNAFinder) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2017-04-07-\[python]- A web-based tool to design distance independent paired-gRNA
 * [ATUM](https://www.atum.bio/eCommerce/cas9/input) - \[webserver] - A website to design gRNA(s) which efficiently engineer your target and minimize off-target effects using ATUM Scoring Algorithms.
 * [BE-DICT](http://www.be-dict.org) - \[Python, webserver] - An attention-based deep learning algorithm capable of predicting base editing outcomes. It is aimed to assist scientists in designing base editor experiments.
@@ -227,4 +227,4 @@ All-in-one platforms for planning, simulating and documenting cloning and genome
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
