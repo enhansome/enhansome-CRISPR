@@ -2,7 +2,7 @@
 
 List of software/websites/databases/papers for genome engineering, including (but not limited to) guide design, genome editing outcome, screening analysis, etc. [Contributions welcome](https://github.com/davidliwei/awesome-CRISPR/blob/master/CONTRIBUTING.md) ⭐ 579 | 🐛 1 | 📅 2026-07-29..
 
-This collection is inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,840 | 🐛 11 | 📅 2026-08-21.
+This collection is inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,841 | 🐛 11 | 📅 2026-08-21.
 
 Did you use any of the softwares below? Take a survey [here](https://forms.gle/qbX7mkjm7U6JSSR4A)!
 
