@@ -16,7 +16,8 @@
             "owner": "mckennalab",
             "repo": "FlashFry",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "bm2-lab",
             "repo": "DeepCRISPR",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "boutroslab",
             "repo": "cld",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "crisflash",
             "repo": "crisflash",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "boutroslab",
             "repo": "cld_docker",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "rraadd88",
             "repo": "beditor",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "bmds-lab",
             "repo": "Crackling",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "xiexiaowei",
             "repo": "pgRNAFinder",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         }
       ],
       "title": "Guide design"
@@ -142,7 +150,8 @@
             "owner": "pydna-group",
             "repo": "pydna",
             "stars": 229
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "OpenCloning",
             "repo": "OpenCloning",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         }
       ],
       "title": "Cloning and strain engineering"
@@ -178,7 +188,8 @@
             "owner": "pinellolab",
             "repo": "CRISPRme",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "BauerLab",
             "repo": "GT-Scan2",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         }
       ],
       "title": "Off-target prediction algorithms"
@@ -214,7 +226,8 @@
             "owner": "patrickc01",
             "repo": "CRIS.py",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         },
         {
           "node_type": "item",
@@ -229,7 +242,8 @@
             "owner": "markrobinsonuzh",
             "repo": "CrispRVariants",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         },
         {
           "node_type": "item",
@@ -244,7 +258,8 @@
             "owner": "pinetree1",
             "repo": "crispr-dav",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         },
         {
           "node_type": "item",
@@ -259,7 +274,8 @@
             "owner": "BIMSBbioinfo",
             "repo": "crispr_DART",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         },
         {
           "node_type": "item",
@@ -274,7 +290,8 @@
             "owner": "zhangtaolab",
             "repo": "CRISPRMatch",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         },
         {
           "node_type": "item",
@@ -289,7 +306,8 @@
             "owner": "mlafave",
             "repo": "ampliconDIVider",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "WouterSteyaert",
             "repo": "BATCH-GE",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         }
       ],
       "title": "Genome editing outcomes and predictions"
@@ -325,7 +344,8 @@
             "owner": "mhorlbeck",
             "repo": "ScreenProcessing",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         },
         {
           "node_type": "item",
@@ -340,7 +360,8 @@
             "owner": "ArcInstitute",
             "repo": "ScreenPro2",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         },
         {
           "node_type": "item",
@@ -355,7 +376,8 @@
             "owner": "hart-lab",
             "repo": "drugz",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         },
         {
           "node_type": "item",
@@ -370,7 +392,8 @@
             "owner": "boutroslab",
             "repo": "caRpools",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         },
         {
           "node_type": "item",
@@ -385,7 +408,8 @@
             "owner": "lingfeiwang",
             "repo": "normalisr",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         },
         {
           "node_type": "item",
@@ -400,7 +424,8 @@
             "owner": "pinellolab",
             "repo": "CRISPR-SURF",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         },
         {
           "node_type": "item",
@@ -415,7 +440,8 @@
             "owner": "felicityallen",
             "repo": "JACKS",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         },
         {
           "node_type": "item",
@@ -430,7 +456,8 @@
             "owner": "timydaley",
             "repo": "CRISPhieRmix",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         },
         {
           "node_type": "item",
@@ -445,7 +472,8 @@
             "owner": "jyyu",
             "repo": "ScreenBEAM",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         },
         {
           "node_type": "item",
@@ -460,7 +488,8 @@
             "owner": "Carldeboer",
             "repo": "MAUDE",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         }
       ],
       "title": "Screening analysis"
@@ -481,7 +510,8 @@
             "owner": "ctSkennerton",
             "repo": "minced",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         },
         {
           "node_type": "item",
@@ -496,7 +526,8 @@
             "owner": "CRISPRlab",
             "repo": "CRISPRdisco",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         },
         {
           "node_type": "item",
@@ -511,14 +542,15 @@
             "owner": "molleraj",
             "repo": "MetaCRAST",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T21:25:36.694Z"
         }
       ],
       "title": "CRISPR identification and diversity"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:02:10.171Z",
+    "last_updated": "2026-08-28T21:25:36.694Z",
     "original_repository_info": {
       "archived": false,
       "id": 173040292,
