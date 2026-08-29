@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FlashFry: The rapid CRISPR target site characterization tool",
+            "homepage": null,
             "id": 28197493,
             "language": "Scala",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-27T19:50:26Z",
+            "open_issues": 3,
             "owner": "mckennalab",
             "repo": "FlashFry",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "bioinformatics",
+              "crispr",
+              "crispr-cas9",
+              "genome-editing"
+            ]
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         },
@@ -26,12 +36,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 117238113,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-13T16:41:12Z",
+            "open_issues": 6,
             "owner": "bm2-lab",
             "repo": "DeepCRISPR",
-            "stars": 76
+            "stars": 76,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         },
@@ -42,12 +57,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A software for the multispecies design of CRISPR/Cas9 libraries",
+            "homepage": null,
             "id": 36079430,
             "language": "Perl",
+            "license": "GPL-2.0",
             "last_commit": "2022-10-07T15:46:01Z",
+            "open_issues": 4,
             "owner": "boutroslab",
             "repo": "cld",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         },
@@ -58,12 +78,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 139568503,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2020-10-16T12:35:54Z",
+            "open_issues": 4,
             "owner": "crisflash",
             "repo": "crisflash",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         },
@@ -74,12 +99,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker for CRISPR Library Designer | https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0915-2",
+            "homepage": null,
             "id": 164117454,
             "language": "Perl",
+            "license": "GPL-2.0",
             "last_commit": "2022-05-30T13:40:58Z",
+            "open_issues": 10,
             "owner": "boutroslab",
             "repo": "cld_docker",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         },
@@ -90,12 +120,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Computational Workflow for Designing Libraries of sgRNAs for CRISPR-Mediated Base Editing, and much more",
+            "homepage": "https://deepwiki.com/rraadd88/beditor",
             "id": 142622458,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-22T00:43:00Z",
+            "open_issues": 6,
             "owner": "rraadd88",
             "repo": "beditor",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "base-editing",
+              "crispr",
+              "genome-wide-targeted-mutagenesis",
+              "guide-rna-library"
+            ]
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         },
@@ -106,12 +146,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CRISPR, faster, better – The Crackling method for whole-genome target detection",
+            "homepage": null,
             "id": 233759338,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-01-11T06:05:04Z",
+            "open_issues": 13,
             "owner": "bmds-lab",
             "repo": "Crackling",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "bioinformatics",
+              "crispr",
+              "crispr-analysis",
+              "crispr-design",
+              "efficacy",
+              "issl",
+              "specificity"
+            ]
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         },
@@ -122,12 +175,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "design distance independent paired-gRNA",
+            "homepage": null,
             "id": 87512561,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-04-07T07:31:51Z",
+            "open_issues": 0,
             "owner": "xiexiaowei",
             "repo": "pgRNAFinder",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         }
@@ -144,12 +202,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Clone with Python! Data structures for double stranded DNA & simulation of homologous recombination, Gibson assembly, cut & paste cloning.",
+            "homepage": null,
             "id": 30285498,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T07:38:55Z",
+            "open_issues": 63,
             "owner": "pydna-group",
             "repo": "pydna",
-            "stars": 229
+            "stars": 229,
+            "topics": [
+              "anaconda",
+              "assembly-strategies",
+              "bioinformatics",
+              "biology",
+              "biopython",
+              "cloning-strategies",
+              "dna",
+              "fasta",
+              "gel",
+              "gel-electrophoresis",
+              "gel-simulation",
+              "genbank",
+              "gibson-assembly",
+              "jupyter",
+              "jupyter-notebook",
+              "jupyter-notebooks",
+              "pydna",
+              "python",
+              "simulation"
+            ]
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         },
@@ -160,12 +243,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Open-Source web application to plan and document cloning and genome engineering",
+            "homepage": "https://opencloning.org/",
             "id": 413037153,
             "language": "Dockerfile",
+            "license": "MIT",
             "last_commit": "2026-08-11T13:46:18Z",
+            "open_issues": 22,
             "owner": "OpenCloning",
             "repo": "OpenCloning",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         }
@@ -182,12 +270,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Variant-aware CRISPR off-target nomination",
+            "homepage": "http://crisprme.di.univr.it",
             "id": 352959483,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T18:55:01Z",
+            "open_issues": 5,
             "owner": "pinellolab",
             "repo": "CRISPRme",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         },
@@ -198,12 +291,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chromatin- and Transcription-aware target site optimization tool for CRISPR/CAS9",
+            "homepage": null,
             "id": 64459202,
             "language": "R",
+            "license": null,
             "last_commit": "2017-08-22T00:44:24Z",
+            "open_issues": 0,
             "owner": "BauerLab",
             "repo": "GT-Scan2",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         }
@@ -220,12 +318,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Analyze NGS data for CRISPR (or any engineered endonuclease) activity and screen for clones. Screen for NHEJ or multiple HDR events concurrently.",
+            "homepage": null,
             "id": 139477880,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-08-08T14:08:47Z",
+            "open_issues": 2,
             "owner": "patrickc01",
             "repo": "CRIS.py",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         },
@@ -236,12 +339,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 22062131,
             "language": "R",
+            "license": null,
             "last_commit": "2020-10-15T01:06:16Z",
+            "open_issues": 12,
             "owner": "markrobinsonuzh",
             "repo": "CrispRVariants",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         },
@@ -252,12 +360,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CRISPR NGS data analysis and visualization pipeline",
+            "homepage": null,
             "id": 94729080,
             "language": "Perl",
+            "license": "MIT",
             "last_commit": "2019-07-26T19:23:56Z",
+            "open_issues": 1,
             "owner": "pinetree1",
             "repo": "crispr-dav",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         },
@@ -268,12 +381,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A workflow to analyse sequence mutations in CRISPR-CAS9 targeted amplicon sequencing data ",
+            "homepage": null,
             "id": 95460328,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2024-02-01T21:48:49Z",
+            "open_issues": 2,
             "owner": "BIMSBbioinfo",
             "repo": "crispr_DART",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "bioconductor",
+              "crispr",
+              "crispr-analysis",
+              "crispr-cas9",
+              "indels",
+              "python",
+              "r",
+              "rmarkdown",
+              "snakemake-workflows"
+            ]
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         },
@@ -284,12 +412,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 111500013,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-02-22T01:10:55Z",
+            "open_issues": 3,
             "owner": "zhangtaolab",
             "repo": "CRISPRMatch",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         },
@@ -300,12 +433,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ampliconDIVider identifies deletion and insertion variants (DIVs) in DNA amplicons.",
+            "homepage": null,
             "id": 25216221,
             "language": "Shell",
+            "license": null,
             "last_commit": "2016-01-28T18:41:33Z",
+            "open_issues": 0,
             "owner": "mlafave",
             "repo": "ampliconDIVider",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         },
@@ -316,12 +454,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 60698766,
             "language": "Java",
+            "license": null,
             "last_commit": "2018-02-07T14:24:25Z",
+            "open_issues": 1,
             "owner": "WouterSteyaert",
             "repo": "BATCH-GE",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         }
@@ -338,12 +481,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 47171620,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-08-19T19:57:56Z",
+            "open_issues": 10,
             "owner": "mhorlbeck",
             "repo": "ScreenProcessing",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         },
@@ -354,12 +502,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flexible analysis of high-content CRISPR screening",
+            "homepage": "https://screenpro2.rtfd.io",
             "id": 728801533,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-06T05:04:34Z",
+            "open_issues": 12,
             "owner": "ArcInstitute",
             "repo": "ScreenPro2",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "crispr",
+              "crispr-analysis",
+              "crispr-cas12",
+              "crispr-cas9",
+              "functional-genomics",
+              "ngs-analysis",
+              "perturbation-screen",
+              "phenotypes",
+              "sequencing-data"
+            ]
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         },
@@ -370,12 +533,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DRUGZ software",
+            "homepage": null,
             "id": 93686015,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2021-08-09T16:27:15Z",
+            "open_issues": 3,
             "owner": "hart-lab",
             "repo": "drugz",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         },
@@ -386,12 +554,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Exploratory data analysis for pooled CRISPR/Cas9 screens",
+            "homepage": "http://www.crispr-analyzer.de",
             "id": 39879518,
             "language": "HTML",
+            "license": null,
             "last_commit": "2017-03-06T09:54:52Z",
+            "open_issues": 8,
             "owner": "boutroslab",
             "repo": "caRpools",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         },
@@ -402,12 +575,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Causal inference, differential expression, and co-expression for scRNA-seq",
+            "homepage": null,
             "id": 242889849,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-11T21:26:16Z",
+            "open_issues": 0,
             "owner": "lingfeiwang",
             "repo": "normalisr",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "association-testing",
+              "causal-inference",
+              "co-expression",
+              "differential-expression",
+              "gene-regulatory-network",
+              "hypothesis-testing",
+              "normalization",
+              "scrna-seq",
+              "single-cell",
+              "single-cell-crispr-screening"
+            ]
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         },
@@ -418,12 +607,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 131749015,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2024-09-04T17:18:35Z",
+            "open_issues": 4,
             "owner": "pinellolab",
             "repo": "CRISPR-SURF",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         },
@@ -434,12 +628,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Analysis package for processing counts from genome-wide CRISPR/Cas9 screens",
+            "homepage": null,
             "id": 123929967,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-02-19T09:35:33Z",
+            "open_issues": 6,
             "owner": "felicityallen",
             "repo": "JACKS",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "bioinformatics",
+              "crispr",
+              "crispr-analysis",
+              "crispr-cas9",
+              "genome-wide-data"
+            ]
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         },
@@ -450,12 +655,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 118522640,
             "language": "R",
+            "license": null,
             "last_commit": "2019-07-10T18:29:05Z",
+            "open_issues": 3,
             "owner": "timydaley",
             "repo": "CRISPhieRmix",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         },
@@ -466,12 +676,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gene-level meta-analysis of high-throughput functional genomics (RNAi or CRISPR) screens.",
+            "homepage": null,
             "id": 39014485,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2016-07-19T22:47:39Z",
+            "open_issues": 10,
             "owner": "jyyu",
             "repo": "ScreenBEAM",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         },
@@ -482,12 +697,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mean Alterations Using Discrete Expression",
+            "homepage": null,
             "id": 377654210,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2022-02-26T22:46:45Z",
+            "open_issues": 0,
             "owner": "Carldeboer",
             "repo": "MAUDE",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         }
@@ -504,12 +724,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mining CRISPRs in Environmental Datasets",
+            "homepage": null,
             "id": 14484942,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2023-02-10T06:15:11Z",
+            "open_issues": 7,
             "owner": "ctSkennerton",
             "repo": "minced",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "bioinformatics",
+              "crispr"
+            ]
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         },
@@ -520,12 +748,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CRISPR discovery pipeline",
+            "homepage": null,
             "id": 114408792,
             "language": "Jupyter Notebook",
+            "license": "GPL-2.0",
             "last_commit": "2018-11-02T13:37:06Z",
+            "open_issues": 5,
             "owner": "CRISPRlab",
             "repo": "CRISPRdisco",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         },
@@ -536,12 +769,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MetaCRAST: reference-guided CRISPR detection in metagenomes",
+            "homepage": null,
             "id": 59859749,
             "language": "Perl",
+            "license": "GPL-3.0",
             "last_commit": "2020-03-10T03:26:18Z",
+            "open_issues": 0,
             "owner": "molleraj",
             "repo": "MetaCRAST",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "bioinformatics",
+              "bioinformatics-pipeline",
+              "ecology",
+              "metagenomic-data",
+              "metagenomics",
+              "perl"
+            ]
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
         }
@@ -550,15 +795,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:25:36.694Z",
+    "last_updated": "2026-08-29T04:40:19.390Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of software/websites/databases/other stuff for genome engineering",
+      "homepage": null,
       "id": 173040292,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-07-29T19:25:37Z",
+      "open_issues": 1,
       "owner": "davidliwei",
       "repo": "awesome-CRISPR",
-      "stars": 579
+      "stars": 579,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "cas9",
+        "crispr",
+        "crispr-analysis",
+        "crispr-cas9",
+        "genome-editing"
+      ]
     },
     "original_repository_sha": "69e433e0dea11e3183e6957083ada07c720e6827",
     "enhanced_repository": "enhansome/enhansome-CRISPR",
