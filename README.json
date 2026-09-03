@@ -795,7 +795,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T15:06:32.239Z",
+    "last_updated": "2026-09-03T15:00:00.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of software/websites/databases/other stuff for genome engineering",
@@ -807,7 +807,7 @@
       "open_issues": 1,
       "owner": "davidliwei",
       "repo": "awesome-CRISPR",
-      "stars": 579,
+      "stars": 580,
       "topics": [
         "awesome",
         "awesome-list",
