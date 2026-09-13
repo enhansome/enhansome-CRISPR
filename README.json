@@ -275,7 +275,7 @@
             "id": 352959483,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T13:32:39Z",
+            "last_commit": "2026-09-13T12:50:07Z",
             "open_issues": 5,
             "owner": "pinellolab",
             "repo": "CRISPRme",
@@ -507,7 +507,7 @@
             "id": 728801533,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T05:07:17Z",
+            "last_commit": "2026-09-13T10:44:06Z",
             "open_issues": 12,
             "owner": "ArcInstitute",
             "repo": "ScreenPro2",
@@ -733,7 +733,7 @@
             "open_issues": 7,
             "owner": "ctSkennerton",
             "repo": "minced",
-            "stars": 125,
+            "stars": 126,
             "topics": [
               "bioinformatics",
               "crispr"
@@ -795,7 +795,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T14:08:34.840Z",
+    "last_updated": "2026-09-13T14:54:54.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of software/websites/databases/other stuff for genome engineering",
