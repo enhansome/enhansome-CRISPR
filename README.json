@@ -252,7 +252,7 @@
             "open_issues": 23,
             "owner": "OpenCloning",
             "repo": "OpenCloning",
-            "stars": 56,
+            "stars": 57,
             "topics": []
           },
           "first_seen": "2026-08-28T21:25:36.694Z"
@@ -795,7 +795,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T15:49:13.645Z",
+    "last_updated": "2026-09-25T15:49:29.238Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of software/websites/databases/other stuff for genome engineering",
