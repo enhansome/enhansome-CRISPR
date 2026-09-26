@@ -196,7 +196,7 @@ All-in-one platforms for planning, simulating and documenting cloning and genome
 
 ## CRISPR identification and diversity
 
-* [MinCED](https://github.com/ctSkennerton/minced) ⭐ 126 | 🐛 7 | 🌐 Java | 📅 2023-02-10 - \[Java] - A program to find Clustered Regularly Interspaced Short Palindromic Repeats (CRISPRs) in full genomes or environmental datasets such as assembled contigs from metagenomes.
+* [MinCED](https://github.com/ctSkennerton/minced) ⭐ 127 | 🐛 7 | 🌐 Java | 📅 2023-02-10 - \[Java] - A program to find Clustered Regularly Interspaced Short Palindromic Repeats (CRISPRs) in full genomes or environmental datasets such as assembled contigs from metagenomes.
 * [CRISPRdisco](https://github.com/CRISPRlab/CRISPRdisco) ⭐ 33 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2018-11-02 - \[software] - Identifying CRISPR repeat-spacer arrays and cas genes in genome data sets.
 * [MetaCRAST](https://github.com/molleraj/MetaCRAST) ⭐ 13 | 🐛 0 | 🌐 Perl | 📅 2020-03-10 - \[software] - A tool detects CRISPR arrays in raw, unassembled metagenomes.
 * [Crass](https://ctskennerton.github.io/crass/) - \[software] - A program that searches through raw metagenomic reads for CRISPR.
@@ -227,4 +227,4 @@ All-in-one platforms for planning, simulating and documenting cloning and genome
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
