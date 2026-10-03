@@ -1,6 +1,6 @@
 # awesome-CRISPR with stars
 
-List of software/websites/databases/papers for genome engineering, including (but not limited to) guide design, genome editing outcome, screening analysis, etc. [Contributions welcome](https://github.com/davidliwei/awesome-CRISPR/blob/master/CONTRIBUTING.md) ⭐ 581 | 🐛 1 | 📅 2026-07-29..
+List of software/websites/databases/papers for genome engineering, including (but not limited to) guide design, genome editing outcome, screening analysis, etc. [Contributions welcome](https://github.com/davidliwei/awesome-CRISPR/blob/master/CONTRIBUTING.md)..
 
 This collection is inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,867 | 🐛 8 | 📅 2026-10-01.
 
@@ -227,4 +227,4 @@ All-in-one platforms for planning, simulating and documenting cloning and genome
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
