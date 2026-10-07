@@ -158,7 +158,7 @@ All-in-one platforms for planning, simulating and documenting cloning and genome
 * [DrugZ](https://github.com/hart-lab/drugz) ⭐ 24 | 🐛 3 | 🌐 HTML | 📅 2021-08-09 - \[python] - DrugZ is a software that detects synergistic and suppressor drug-gene interactions in CRISPR screens. Paper: [Genome Medicine 2019](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-019-0665-3).
 * [CaRpools](https://github.com/boutroslab/caRpools) ⭐ 21 | 🐛 8 | 🌐 HTML | 📅 2017-03-06 - \[R] - A pipeline for end-to-end analysis of pooled CRISPR/Cas9 screening data. Including in-depth analysis of screening quality and sgRNA phenotypes.
 * [Normalisr](https://github.com/lingfeiwang/normalisr) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2026-06-11 - \[Python, Shell] - Single-cell CRISPR screen (e.g. Perturb-seq, CROP-seq) analysis for robust, efficient gene differential expression and regulatory network reconstruction with accurate FDR control. Paper: [Nature Communications 2021](https://doi.org/10.1038/s41467-021-26682-1).
-* [CRISPR-SURF](https://github.com/pinellolab/CRISPR-SURF) ⭐ 19 | 🐛 4 | 🌐 Python | 📅 2024-09-04 - \[webserver] - A computational framework to discover regulatory elements by deconvolution of CRISPR tiling screen data.
+* [CRISPR-SURF](https://github.com/pinellolab/CRISPR-SURF) ⭐ 20 | 🐛 4 | 🌐 Python | 📅 2024-09-04 - \[webserver] - A computational framework to discover regulatory elements by deconvolution of CRISPR tiling screen data.
 * [JACKS](https://github.com/felicityallen/JACKS) ⭐ 16 | 🐛 6 | 🌐 Python | 📅 2021-02-19 - \[Python] - A Bayesian method that jointly analyses screens performed with the same guide RNA library.
 * [CRISPhieRmix](https://github.com/timydaley/CRISPhieRmix) ⭐ 9 | 🐛 3 | 🌐 R | 📅 2019-07-10 - \[R] - A hierarchical mixture model for CRISPR pooled screens
 * [ScreenBEAM](https://github.com/jyyu/ScreenBEAM) ⭐ 9 | 🐛 10 | 🌐 R | 📅 2016-07-19 - \[R] - Gene-level meta-analysis of high-throughput functional genomics (RNAi or CRISPR) screens.
@@ -227,4 +227,4 @@ All-in-one platforms for planning, simulating and documenting cloning and genome
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
