@@ -207,8 +207,8 @@
             "id": 30285498,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T00:55:50Z",
-            "open_issues": 71,
+            "last_commit": "2026-10-11T07:55:17Z",
+            "open_issues": 69,
             "owner": "pydna-group",
             "repo": "pydna",
             "stars": 231,
@@ -795,7 +795,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T16:14:25.592Z",
+    "last_updated": "2026-10-11T16:38:48.712Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of software/websites/databases/other stuff for genome engineering",
@@ -804,7 +804,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-07-29T19:25:37Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "davidliwei",
       "repo": "awesome-CRISPR",
       "stars": 583,
