@@ -211,7 +211,7 @@
             "open_issues": 70,
             "owner": "pydna-group",
             "repo": "pydna",
-            "stars": 232,
+            "stars": 233,
             "topics": [
               "anaconda",
               "assembly-strategies",
@@ -795,7 +795,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T15:57:28.716Z",
+    "last_updated": "2026-10-22T15:52:41.187Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of software/websites/databases/other stuff for genome engineering",
