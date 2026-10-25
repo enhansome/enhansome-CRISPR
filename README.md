@@ -2,7 +2,7 @@
 
 List of software/websites/databases/papers for genome engineering, including (but not limited to) guide design, genome editing outcome, screening analysis, etc. [Contributions welcome](https://github.com/davidliwei/awesome-CRISPR/blob/master/CONTRIBUTING.md)..
 
-This collection is inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,882 | 🐛 8 | 📅 2026-10-21.
+This collection is inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,884 | 🐛 8 | 📅 2026-10-21.
 
 Did you use any of the softwares below? Take a survey [here](https://forms.gle/qbX7mkjm7U6JSSR4A)!
 
@@ -196,7 +196,7 @@ All-in-one platforms for planning, simulating and documenting cloning and genome
 
 ## CRISPR identification and diversity
 
-* [MinCED](https://github.com/ctSkennerton/minced) ⭐ 128 | 🐛 7 | 🌐 Java | 📅 2023-02-10 - \[Java] - A program to find Clustered Regularly Interspaced Short Palindromic Repeats (CRISPRs) in full genomes or environmental datasets such as assembled contigs from metagenomes.
+* [MinCED](https://github.com/ctSkennerton/minced) ⭐ 129 | 🐛 7 | 🌐 Java | 📅 2023-02-10 - \[Java] - A program to find Clustered Regularly Interspaced Short Palindromic Repeats (CRISPRs) in full genomes or environmental datasets such as assembled contigs from metagenomes.
 * [CRISPRdisco](https://github.com/CRISPRlab/CRISPRdisco) ⭐ 33 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2018-11-02 - \[software] - Identifying CRISPR repeat-spacer arrays and cas genes in genome data sets.
 * [MetaCRAST](https://github.com/molleraj/MetaCRAST) ⭐ 13 | 🐛 0 | 🌐 Perl | 📅 2020-03-10 - \[software] - A tool detects CRISPR arrays in raw, unassembled metagenomes.
 * [Crass](https://ctskennerton.github.io/crass/) - \[software] - A program that searches through raw metagenomic reads for CRISPR.
@@ -227,4 +227,4 @@ All-in-one platforms for planning, simulating and documenting cloning and genome
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
