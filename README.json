@@ -248,8 +248,8 @@
             "id": 413037153,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-10-08T15:39:16Z",
-            "open_issues": 23,
+            "last_commit": "2026-11-10T11:58:49Z",
+            "open_issues": 25,
             "owner": "OpenCloning",
             "repo": "OpenCloning",
             "stars": 62,
@@ -795,7 +795,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T21:26:09.375Z",
+    "last_updated": "2026-11-10T18:40:15.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of software/websites/databases/other stuff for genome engineering",
